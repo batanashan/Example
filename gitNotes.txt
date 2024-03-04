@@ -1,0 +1,27 @@
+Git:
+---------
+In your machine check whether git is there are not there in the command prompt.
+if it is No :-
+'git1' is not recognized as an internal or external command,
+operable program or batch file.
+2.to create github account.
+3.create a Reposatory with name.
+4.50% code in your project is completed remaining you will be approach then the time how to use the 
+git .
+
+In your  local machine how to import that git application.
+5.create a folder name(workspace)
+6. Go to command prompt in your workspace folder.
+7 .Enter git clone <url>
+8 . check the branch <main>
+main branch convert to your branch name how it is?
+9. git checkout -b <---your name>
+10. Requirement purpose you create some files .
+11.>>git status(red)
+12.>>git add *
+13.>>
+14.>>git status(green)
+15.>>git commit -m "comit changes"
+16.>>git push
+
+
